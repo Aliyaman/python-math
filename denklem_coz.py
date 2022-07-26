@@ -17,8 +17,6 @@ def is_roots_correct(x1, x2):
         pass
 
 
-
-
 if a>0 or delta>0:
    x1 = (- b + delta**0.5) / (2* a)
    x2 = (- b - delta**0.5) / (2* a)
